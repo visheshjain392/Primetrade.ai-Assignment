@@ -125,7 +125,3 @@ Example data-driven rules:
 - Reduce leverage exposure during Fear sentiment periods.
 - Increase trade participation selectively during Greed markets.
 - Frequent traders adapt better to sentiment shifts compared to infrequent traders.
-
----
-
-## 📁 Project Structure
